@@ -1,0 +1,170 @@
+
+
+body {
+  font-family: 'Almarai', sans-serif;
+}
+
+.hike-technical-data .ascent:before {
+	font-family: 'Font Awesome\ 5 Free';
+	content: '\f30c';
+	...
+}
+
+.english {
+    margin-left: auto;
+    
+}
+.arod {
+    margin-right: auto;
+    
+    
+}
+.astarga{
+    margin-right: auto;
+}
+.noonnav {
+    
+    height: 40px;
+    
+}
+.form-inline{
+width: -100%;
+
+
+}
+
+.a{
+ margin-TOP: 100px;
+    margin-left: 450PX;
+}
+/*---body---*/
+
+#page_block_below_fold {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 50;
+   
+}
+    /*----zorar---*/
+#link-mwum5gbxrl {
+    font-size: 30px;
+    background-color: blue;
+    color: yellow;
+    
+
+   
+}
+#element-4{
+    padding-top: 30px
+}
+#element-84 > div > h1 > p > span {
+    font-size: 70px;
+    color: white;
+   
+    
+    
+}
+
+.sa {
+    width: 33;
+    height: 20;
+}
+#navbarSupportedContent {
+    background-color: white;
+}
+
+#element-29 > div > p > span {
+        font-size: 20px;
+    }
+.noonimg {
+        box-shadow: 0 6px 14px 0 rgba(0, 0, 0, 0.83), 0 6px 14px 0 rgba(0, 0, 0, 0.42);
+    margin-top: -57px;
+    width: 250px;
+}
+
+  #element-1 > div > h1 > p {
+        
+       font-size: 40px;
+        
+    }
+
+
+.iii{
+    margin-bottom: -90px;
+    width: 220px;
+    height: 100px
+    
+}
+.footer{
+    padding: 90px
+}
+/*---Mobile---*/
+@media only screen and (max-width: 812px) {
+    
+
+    .arod {display: none;}
+    
+    body > div.fo2 > nav.navbar.navbar-light.bg-ligt > section
+    {display: none;}
+    
+    body > div > nav:nth-child(1) {
+        display: none;}
+    
+    .icon1 {
+        margin-left: -60px;
+        font-size: 25px;
+        
+    }
+    .icon2 {
+        margin-left: -20px;
+        font-size: 25px;
+        
+    }
+    
+    body > div > nav.navbar.navbar-expand-lg.navbar-light.bg-light > button > span {
+        margin-top: -65px
+    }
+    
+    .noonnav {
+        margin-right: 50px;
+        height: 35px;
+        
+        
+    }
+    body > div > nav.navbar.navbar-light.bg-ligt {
+        padding: 20px;
+    }
+  
+    
+    .noon {
+        padding-right: 20px;
+        width: 100px
+    }
+    .noonimg{
+          
+        width: 40%;
+        box-shadow: 0 6px 14px 0 rgba(0, 0, 0, 0.83), 0 6px 14px 0 rgba(0, 0, 0, 0.42);
+        margin-top: -130px;
+
+   
+    }
+    #element-1 > div > h1 > p {
+        display: none;
+    }
+     #element-29 > div > p > span {
+        font-size: 20px;
+       
+    }
+    #element-29 {
+        margin-top: -45px;
+    }
+    body > div > nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+        
+    }
+    
+   }
+@media only screen and (min-width: 813px) {
+    .icon1{display: none;}
+    .icon2{display: none;}
+}
+    
